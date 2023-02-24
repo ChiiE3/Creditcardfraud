@@ -7,7 +7,7 @@ Blossom Bank wants to build a Machine Learning model to predict online payment f
 
 Objective:
 The objective of this project is to explore and to identify fraudulent and non-fraudulent payments on finanacial transactions in Blossom bank. 
-Model utilised in this project to detect the fraudulent transactions involves linear and logistic regression models. 
+Model utilised in this project to detect the fraudulent transactions involves decision tree classifier, naive bayes and logistic regression models. 
 The most efficient model can be used by the bank to automatically predict and prevent fraud across the organisation which will help keep the customers and their money safe.
 
 Dataset
@@ -30,7 +30,9 @@ Step 3: Feature engineering
 - Encoded categorical variables
 
 Step 4: Model selection, training, and validation
-- Trained and tested 4 supervised learning models: Logistic Regression, Linear Regression, Decision Tree Classifier and Naive Bayes Model
+- Trained and tested 4 supervised learning models: Logistic Regression
+
+, Decision Tree Classifier and Naive Bayes Model
 
 Step 5: Model evaluation
 - Analysed the results of trained models.
